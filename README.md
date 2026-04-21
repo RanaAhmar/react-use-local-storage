@@ -73,36 +73,7 @@ Unlike native `localStorage.setItem()`, this hook properly triggers a React comp
 ### `useLocalStorage(key: string, initialValue: any)`
 
 | Parameter | Type | Description |
-| :--- | :--- | :--- |
-| `key` | `string` | The unique local storage key under which data is saved. |
-| `initialValue` | `any` | The default value to use if the key does not exist yet. |
-
-**Returns:** `[storedValue, setValue]` - Exactly mirroring `useState`.
-
-## 🤝 Contributing
-
-We welcome contributions to make this utility even better! 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-*Built with ❤️ for the open-source frontend community.*
-
-
----
-### 🏢 About Stackaura
-This project is proudly maintained backed and sponsored by **[Stackaura](https://www.stackaura.com/)**.
-We specialize in building high-performance web applications, scalable SaaS architectures, and premium digital solutions.
-👉 **[Visit Stackaura to supercharge your next project!](https://www.stackaura.com/)**
-
-
+| :
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -120,3 +91,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
